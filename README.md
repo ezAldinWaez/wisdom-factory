@@ -18,6 +18,7 @@ Each wisdom is unique. Discover what they teach! ✨
 | ----------------- | :----------------------------------- |
 | [01](wisdom_1.py) | Creating the future from nothing     |
 | [02](wisdom_2.py) | Achieving dreams through persistence |
+| [03](wisdom_3.py) | Transformation through challenges    |
 
 ## Contributing
 
